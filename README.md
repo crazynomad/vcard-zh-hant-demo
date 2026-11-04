@@ -1,5 +1,7 @@
 # vCard 繁體中文個人網站
 
+[線上演示](https://crazynomad.github.io/vcard-zh-hant-demo/) · [發布記錄](https://github.com/crazynomad/vcard-zh-hant-demo/actions)
+
 綠皮火車 EP18「0 成本 Vibe Coding 上線指南（網站篇）」的靜態網站示例。沿用 [codewithsadee / vCard](https://github.com/codewithsadee/vcard-personal-portfolio) 的深色卡片與金色點綴，包含「關於我、履歷、精選專案、聯絡」。
 
 人物「林予安」、工作經歷與專案都是虛構示例。`yuan.lin@example.com` 是範例信箱；發布自己的版本前，請換成自己的介紹與公開聯絡方式。
